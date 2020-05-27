@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>
+Syllabus for Engineering Exploration
+</title>
+<link rel="stylesheet" href="common.css">
+</head>
+<body bgcolor="silver" text="#ffffff">
+<div class="a"><br>******ENGINEERING EXPLORATION******<br><br></div>
+<hr><br><br>
+<div class="b">
+Unit 1: Introduction to Engineering and Engineering Study (04 Hrs.)<br>
+Difference between science and engineering, scientist and engineer needs and wants, various disciplines<br>
+of engineering, some misconceptions of engineering, Expectation for the 21st century engineer and<br>
+graduate attributes.</div>
+<div class="c">
+Unit 2: Engineering Design (12 Hrs.)<br>
+Engineering Design Process, Multidisciplinary facet of design, Pair wise comparison chart, Introduction<br>
+to mechatronics system, generation of multiple solution, Pugh Chart, Motor and battery sizing concepts,<br>
+Introduction to PCB design.</div>
+<div class="d">
+Unit 3: Mechanisms (04 Hrs.)<br>
+Basic Components of a Mechanism, Degrees of Freedom or Mobility of a Mechanism, 4 Bar Chain,<br>
+Crank Rocker Mechanism, Slider Crank Mechanism, Simple Robotic Arm building.</div>
+<div class="ew">
+Unit 4: Platform based development (12 Hrs.)<br>
+Introduction to various platform based development (Arduino) programming and its Essentials,<br>
+Introduction to sensors, Transducers and actuators and its interfacing with Arduino.</div>
+<div class="fw">
+Unit 5: Artificial Intelligence and Applications (04 Hrs.)<br>
+Types of Data, Descriptive Statistics techniques as applicable to different types of data, Types of graphs<br>
+as applicable to different types of data, Usage of Microsoft Excel tool for descriptive statistics, Data<br>
+Acquisition(Temperature and humidity) using Sensors interfaced with Arduino, Exporting acquired data<br>
+to Microsoft Excel and analysis using visual representation.</div>
+<div class="g">
+Unit 6: Project Management (04 Hrs.)<br>
+Introduction to Agile practices, Significance of team work, Importance of communication in<br>
+engineering profession, Project management tools: Checklist, Timeline, Gantt chart, Significance of<br>
+documentation.</div>
+<div class="jw">
+Unit 7: Engineering Ethics (04 Hrs.)<br>
+Identifying Engineering as a Profession, Significance of Professional Ethics, Code of Conduct for<br>
+Engineers, Identifying Ethical Dilemmas in different tasks of engineering, Applying Moral theories<br>
+and codes of conduct for resolution of Ethical Dilemmas.</div>
+<div class="kw">
+Unit 8: Sustainability in Engineering (04 Hrs.)<br>
+Introduction to sustainability, Sustainability leadership, Life cycle assessment, Carbon foot print.</div>
+<div class="i">
+Unit 9: Course Project (12 Hrs.)<br>
+Reviews.</div>
+<div class="h">
+<a href="103an.html"> HOME </a><br><br>
+<a href="103bn.html"> Engineering Physics </a><br><br>
+<a href="103cn.html"> Mathematics-1 </a><br><br>
+<a href="103dn.html"> Basic Electric Engineerig </a><br><br>
+<a href="103en.html"> Engineering Graphics </a><br><br>
+<a href="103fn.html"> Engineering Mechanics </a>
+</div>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>
+Syllabus for Basic Electrical Engineering
+</title>
+<link rel="stylesheet" href="common.css">
+</head>
+<body bgcolor="fuchsia"  text="#ffffff">
+<div class="a"><br>
+***BASIC ELECTRICAL ENGINEERING***<br><br></div><br>
+<hr><br><br>
+<div class="b">
+Unit 1: DC Circuits (08 Hrs.)<br>
+Concepts of e.m.f, Potential difference & current, Battery, Energy Sources: Ideal and practical voltage<br>
+and current sources, Independent and dependent sources, Ohm's law, Kirchhoff’s laws, Simplification of<br>
+networks using series-parallel combinations and star-delta transformations, Current and Voltage division<br>
+rule, Mesh Analysis, Nodal Analysis, Superposition Theorem, Thevenin's Theorem, Norton's Theorem,<br>
+Maximum power transfer theorem, Time domain analysis of RL & RC circuits.<br>
+</div>
+<div class="c">
+Unit 2: AC Fundamentals (08 Hrs.)<br>
+Sinusoidal voltages and currents, Basic definitions of AC fundamentals. Phase difference, lagging,<br>
+leading and in phase quantities and phasor representation. Study of A.C. circuit consisting of pure R, L &<br>
+C. Single phase A.C. circuits: Study of series and parallel R-L, R-C, R-L-C circuits, resonance, Concept<br>
+of impedance, Admittance in case of above combinations, Waveform and relevant voltage-current phasor<br>
+diagrams, Concept of active, Reactive, Apparent, Complex power and power factor. Three phase balanced<br>
+circuits, Voltage and current relations in star and delta connections.
+</div>
+<div class="d">
+Unit 3: Electromagnetism (06 Hrs.)<br>
+Magnetic effect of electric current, Cross and dot conventions, Right hand thumb rule, Force on current<br>
+carrying conductors placed in magnetic field, Fleming's left hand rule, Fleming's right hand rule.<br>
+Faraday’s laws of electromagnetic induction, Statically and dynamically induced e.m.f., Self and mutual<br>
+inductance, Coefficient of coupling, energy stored in magnetic field.</div>
+<div class="e">Unit 4: Transformers (08 Hrs.)<br>
+Basic definitions of magnetic circuits, Comparison of electrical and magnetic circuit, B-H curve<br>
+Transformer: Theory of operation, Ideal and practical transformer, Open circuit test. Short-circuit test,<br>
+Efficiency and Voltage Regulation, Auto transformers.</div>
+ <div class="f">
+Unit 5: Rotating Electrical Machines (08 Hrs.)<br>
+DC Machines: Construction, Working principles, operation, Types & equivalent circuit of DC Generator,<br>
+DC Motor. AC Machines: Construction, Working principles, Operation, Types & equivalent circuit of 3-<br>
+phase induction motor, single phase induction motor, Alternators (AC Generators).</div>
+<div class="g">  
+Unit 6: Electrical Installation (06 Hrs.)<br>
+Components of LT Switchgear: Switch Fuse Unit (SFU), Miniature Circuit Breaker (MCB), Earth<br>
+Leakage Circuit Breaker (ELCB), Earthing. Types of Batteries, Important Characteristics for Batteries,<br>
+Power factor improvement.</div><br><br>
+<div class="h">
+<a href="103an.html"> HOME </a><br><br>
+<a href="103bn.html"> Engineering Physics </a><br><br>
+<a href="103cn.html"> Mathematics-1 </a><br><br>
+<a href="103en.html"> Engineering Graphics </a><br><br>
+<a href="103fn.html"> Engineering Mechanics </a><br><br>
+<a href="103gn.html"> Engineering Exploration </a>
+</div>
+</body>
+</html>

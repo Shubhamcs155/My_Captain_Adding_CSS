@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+Syllabus for Mathematics
+</title>
+<link rel="stylesheet" href="common.css">
+</head>
+<body bgcolor="#B0A9A9" text="white">
+<div class="a"><br>***MATHEMATICS-1***<br><br></div>
+<hr><br><br>
+<div class="b">
+Unit 1: Differential Calculus (07 Hrs.)<br>
+Review of limits, continuity, differentiability, linearization and differentials. maxima and minima, Mean<br>
+value theorem, concavity. Taylor’s theorem.
+</div>
+<div class="c">
+Unit 2: Integral Calculus (08 Hrs.)<br>
+Riemann integrals, fundamental theorem of calculus, improper integrals, beta and gamma functions and<br>
+their properties, applications to areas and volumes, transcendental functions, indeterminate forms and<br>
+L’Hospital’s rule.</div>
+<div class="d">
+Unit 3: Sequence and Series (09 Hrs.)<br>
+Convergence of sequences and series, tests for convergence, power series, Taylor's series and its<br>
+convergence, series for exponential, trigonometric and logarithmic functions.</div>
+<div class="e">
+Unit 4: Matrices (06 Hrs.)<br>
+Matrices and matrix operations (review), rank of a matrix, determinants and rank of a matrix in terms of<br>
+determinants, geometry of linear equations, systems of linear equations, Gauss elimination, Gauss-Jordan<br>
+elimination.</div>
+<div class="f">
+Unit 5: Vector Spaces (08 Hrs.)<br>
+Real vector spaces, subspaces, linear independence, coordinates, basis, dimension, linear transformations<br>
+(maps), range and kernel of a linear map, rank and nullity, inverse of linear transformation, rank-nullity<br>
+theorem, composition of liner maps, matrix associated with linear map.</div>
+<div class="g">
+Unit 6: Eigenvalues and Eigenvectors (07 Hrs.)<br>
+Eigenvalues and eigenvectors, characteristic polynomials, Cayley-Hamilton theorem, eigenvalues of<br>
+special matrices (orthogonal, unitary, Hermitian, symmetric, skew-symmetric, normal), algebraic and<br>
+geometric multiplicity, diagonalization.</div>
+<div class="h">
+<a href="103an.html"> HOME </a><br><br>
+<a href="103bn.html"> Engineering Physics </a><br><br>
+<a href="103dn.html"> Basic Electric Engineering </a><br><br>
+<a href="103en.html"> Engineering Graphics </a><br><br>
+<a href="103fn.html"> Engineering Mechanics </a><br><br>
+<a href="103gn.html"> Engineering Exploration </a></div>
+</body>
+</html>

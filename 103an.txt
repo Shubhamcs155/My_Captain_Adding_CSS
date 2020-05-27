@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>
+Total syllabus for FY BTECH STR-A ; SEM-1 in SGGS IE & T, NANDED
+</title>
+<link rel="stylesheet" href="main.css">
+</head>
+<body  width="100%">
+<div class="a"><br><br<br>****Total THEORY syllabus for FY BTECH STR-A ; SEM-1 at SGGS IE & T****<br><br></div><hr><hr><br>
+<div class="b"><br><a href="103bn.html"> Engineering Physics </a><br><br></div>
+<div class="c"><br><a href="103cn.html"> Mathematics-1 </a><br><br></div>
+<div class="d"><br><a href="103dn.html"> Basic Electric Engineerig </a><br><br></div>
+<div class="e"><br><a href="103en.html"> Engineering Graphics </a><br><br></div>
+<div class="f"><br><a href="103fn.html"> Engineering Mechanics </a><br><br></div>
+<div class="g"><br><a href="103gn.html"> Engineering Exploration </a><br><br></div>
+  <br>
+  <br>
+<div class="i"><p><br>!!!!.....HAVE A NICE DAY.....!!!!<br><br></p></div>
+</body>
+</html>

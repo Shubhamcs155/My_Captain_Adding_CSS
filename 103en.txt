@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>
+Syllabus Engineering Graphics
+</title>
+<link rel="stylesheet" href="common.css">
+</head>
+<body bgcolor="#ffffff"  text="#000000">
+<div class="a"><br>***ENGINEERING GRAPHICS***<br><br></div>
+<hr><br><br>
+<div class="b">
+Unit 1: Introduction to Engineering Drawing (04 Hrs.)<br>
+Introduction, Use of various drawing instruments, Lettering, Layout of drawing sheet, Sizes of the<br>
+drawing sheets, Different types of lines used in the drawing practice, Dimensioning–Linear, Angular,<br>
+Aligned system, Unidirectional system, Parallel dimensioning, Chain dimensioning, Location dimension<br>
+and Size dimension, Concept of RF.
+</div>
+<div class="c">
+Unit 2: Projections of Points and Lines (05 Hrs.)<br>
+Projections of points in all possible position w.r.t. reference planes, Projections of lines when it is<br>
+perpendicular to one of the reference planes, When line is inclined to one and parallel to other reference<br>
+plane, Line inclined to both reference planes, Applications of projection of lines and concept of traces of<br>
+lines.
+</div>
+<div class="de">
+Unit 3: Projections of Planes and Solids (05 Hrs.)<br>
+Projections of planes when it is parallel to one of the reference planes, lying in reference plane, when it is<br>
+perpendicular to one and inclined to other reference plane, when it is inclined to both reference planes,<br>
+Projections on auxiliary planes. Projection of solid when axis is perpendicular to one of the reference<br>
+planes, when axis is inclined to one and parallel to other reference plane, When axis is inclined to both the<br>
+reference planes, Projection of cube, right regular prisms, Right regular pyramids, Right circular cylinder,<br>
+Right circular cone, Tetrahedron, Frustum of solids.
+</div>
+<div class="e">
+Unit 4: Orthographic Projection (06 Hrs.)<br>
+Multi view orthographic projections for parts/ patterns with isometric/ non-isometric surfaces and circular<br>
+features and sectional views. Reading of orthographic projections.
+</div>
+<div class="f">
+Unit 5: Isometric Projection (06 Hrs.)<br>
+Definition of isometric view, Projection, Isometric scale, Non-isometric lines, Circular features in context<br>
+of isometric projection. Construction of isometric view/ projection from given orthographic views.
+</div>
+<div class="ge">
+Unit 6: Introduction to Computer Aided Drawing (04 Hrs.)<br>
+Computer screen, Layout of the software, standard tool bar/ menus and description of most commonly<br>
+used tools bars, Navigational tools. Creation of 2D/3D environment. Commands and creation of co-<br>
+ordinate points, lines, axes, polylines, square, rectangle, polygons, splines, circles, ellipse, text, move,<br>
+copy, offset, mirror, rotate, trim, extend, break, chamfer, fillet, zoom, pan, curves, constraints viz.<br>
+tangency, parallelism, inclination and perpendicularity. Dimensioning, line conventions, lettering. Line<br>
+properties, 3D modelling of basic solids and their intersections.
+</div>
+<div class="h">
+<a href="103an.html"> HOME </a><br><br>
+<a href="103bn.html"> Engineering Physics </a><br><br>
+<a href="103cn.html"> Mathematics-1 </a><br><br>
+<a href="103dn.html"> Basic Electric Engineerig </a><br><br>
+<a href="103fn.html"> Engineering Mechanics </a><br><br>
+<a href="103gn.html"> Engineering Exploration </a>
+</div>
+</body>
+</html>
